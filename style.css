@@ -9,8 +9,6 @@ body {
     background-color: #24272E; 
 }
 
-
-
 header {  
     background: white; 
     padding: 20px;  
@@ -47,7 +45,6 @@ header > h1 {
     position: absolute; 
     top: 30px; 
     left: -25px; 
-
 } 
 
 #computer-label { 
@@ -87,7 +84,7 @@ header > h1 {
 
 .choice:hover { 
     cursor: pointer;
-    background: red;
+    background: #E2584D;
 }
 
 #action-message { 
